@@ -1,0 +1,9 @@
+Time by LU for n=100, length=50, T1=10, T2=500 -> 2760.350372s
+Time by gauss siedal - 260.951380s, iterations- 3411
+Gauss siedal length=10, n=100, T1=50, T2=500 -> 2635.913405s
+
+Length = 50 n=100 T1=29  T2=300
+
+Gauss Sidal -> 644.099s  iterations -> 774
+Conjugate Gradient -> 1181.7346s  Iterations -> 421
+LU -> 2693.1412s
