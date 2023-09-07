@@ -1,0 +1,10 @@
+lp = 1.0, lc = 2.0
+1. Average Time taken by Passenger vs number of Passenger
+nCars = 25
+k = 5
+passg = [[10,11.5], [15,12.0], [20, 14.75], [25, 15.0], [30, 17.33], [35, 21.571], [40, 25.5], [45, 28.667], [50, 31]]
+
+2. Average Time taken by Car vs number of Car
+passg = 50
+k = 3
+cars = [[5, 110.0],[10, 58.0], [15, 34.0], [20, 28.5], [25, 20.0]]

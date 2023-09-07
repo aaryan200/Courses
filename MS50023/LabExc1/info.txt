@@ -1,0 +1,8 @@
+scf = self consistent functional
+ibrav = defines crystal structure
+celldm = cell dimensions, 10.26 is hartree unit not angstorm
+nat = number of atoms
+ntyp = number of type of atoms
+ecutwfc = 
+mixing_beta = related to charge density
+alat = hartree units

@@ -1,0 +1,145 @@
+time0: 15 threads created.
+time1: Family1 becomes hungry
+time2: Family1 eats from the Pot
+time3: Family2 becomes hungry
+time4: Family2 eats from the Pot
+time5: Family3 becomes hungry
+time6: Family3 eats from the Pot
+time7: Family4 becomes hungry
+time8: Family4 eats from the Pot
+time9: Family5 becomes hungry
+time10: Family5 eats from the Pot
+time11: Family6 becomes hungry
+time12: Family6 eats from the Pot
+time13: Family7 becomes hungry
+time14: Family8 becomes hungry
+time15: Family9 becomes hungry
+time16: Family10 becomes hungry
+time17: Family11 becomes hungry
+time18: Family12 becomes hungry
+time19: Family13 becomes hungry
+time20: Family14 becomes hungry
+time21: Family15 becomes hungry
+time22: Vendor refills the ice cream 1th time.
+time23: Family7 eats from the Pot
+time24: Family8 eats from the Pot
+time25: Family11 eats from the Pot
+time26: Family10 eats from the Pot
+time27: Family9 eats from the Pot
+time28: Family12 eats from the Pot
+time29: Vendor refills the ice cream 2th time.
+time30: Family13 eats from the Pot
+time31: Family15 eats from the Pot
+time32: Family14 eats from the Pot
+time33: Family1 becomes hungry
+time34: Family2 becomes hungry
+time35: Family2 eats from the Pot
+time36: Family1 eats from the Pot
+time37: Family6 becomes hungry
+time38: Family6 eats from the Pot
+time39: Family5 becomes hungry
+time40: Family3 becomes hungry
+time41: Family4 becomes hungry
+time42: Family7 becomes hungry
+time43: Family10 becomes hungry
+time44: Family9 becomes hungry
+time45: Family11 becomes hungry
+time46: Family8 becomes hungry
+time47: Family12 becomes hungry
+time48: Family13 becomes hungry
+time49: Family14 becomes hungry
+time50: Family15 becomes hungry
+time51: Family1 becomes hungry
+time52: Family2 becomes hungry
+time53: Family6 becomes hungry
+time54: Vendor refills the ice cream 3th time.
+time55: Family5 eats from the Pot
+time56: Family3 eats from the Pot
+time57: Family4 eats from the Pot
+time58: Family10 eats from the Pot
+time59: Family9 eats from the Pot
+time60: Family7 eats from the Pot
+time61: Vendor refills the ice cream 4th time.
+time62: Family8 eats from the Pot
+time63: Family11 eats from the Pot
+time64: Family14 eats from the Pot
+time65: Family12 eats from the Pot
+time66: Family15 eats from the Pot
+time67: Family13 eats from the Pot
+time68: Vendor refills the ice cream 5th time.
+time69: Family1 eats from the Pot
+time70: Family2 eats from the Pot
+time71: Family6 eats from the Pot
+time72: Family5 becomes hungry
+time73: Family10 becomes hungry
+time74: Family5 eats from the Pot
+time75: Family10 eats from the Pot
+time76: Family9 becomes hungry
+time77: Family7 becomes hungry
+time78: Family9 eats from the Pot
+time79: Family3 becomes hungry
+time80: Family4 becomes hungry
+time81: Family13 becomes hungry
+time82: Family15 becomes hungry
+time83: Family11 becomes hungry
+time84: Family14 becomes hungry
+time85: Family12 becomes hungry
+time86: Family8 becomes hungry
+time87: Vendor refills the ice cream 6th time.
+time88: Family11 eats from the Pot
+time89: Family7 eats from the Pot
+time90: Family4 eats from the Pot
+time91: Family13 eats from the Pot
+time92: Family3 eats from the Pot
+time93: Family15 eats from the Pot
+time94: Family6 becomes hungry
+time95: Family1 becomes hungry
+time96: Family2 becomes hungry
+time97: Vendor refills the ice cream 7th time.
+time98: Family12 eats from the Pot
+time99: Family6 eats from the Pot
+time100: Family1 eats from the Pot
+time101: Family2 eats from the Pot
+time102: Family14 eats from the Pot
+time103: Family8 eats from the Pot
+Family6 has eaten 4 times. Hence, exits
+Family1 has eaten 4 times. Hence, exits
+Family2 has eaten 4 times. Hence, exits
+time107: Family5 becomes hungry
+time108: Family10 becomes hungry
+time109: Family9 becomes hungry
+time110: Vendor refills the ice cream 8th time.
+time111: Family5 eats from the Pot
+time112: Family9 eats from the Pot
+time113: Family10 eats from the Pot
+Family9 has eaten 4 times. Hence, exits
+Family5 has eaten 4 times. Hence, exits
+Family10 has eaten 4 times. Hence, exits
+time117: Family11 becomes hungry
+time118: Family11 eats from the Pot
+time119: Family3 becomes hungry
+time120: Family3 eats from the Pot
+time121: Family7 becomes hungry
+time122: Family7 eats from the Pot
+time123: Family4 becomes hungry
+time124: Family15 becomes hungry
+time125: Family13 becomes hungry
+time126: Vendor refills the ice cream 9th time.
+time127: Family4 eats from the Pot
+time128: Family13 eats from the Pot
+time129: Family15 eats from the Pot
+time130: Family12 becomes hungry
+time131: Family12 eats from the Pot
+time132: Family8 becomes hungry
+time133: Family8 eats from the Pot
+time134: Family14 becomes hungry
+time135: Family14 eats from the Pot
+Family11 has eaten 4 times. Hence, exits
+Family3 has eaten 4 times. Hence, exits
+Family7 has eaten 4 times. Hence, exits
+Family15 has eaten 4 times. Hence, exits
+Family4 has eaten 4 times. Hence, exits
+Family13 has eaten 4 times. Hence, exits
+Family8 has eaten 4 times. Hence, exits
+Family12 has eaten 4 times. Hence, exits
+Family14 has eaten 4 times. Hence, exits
