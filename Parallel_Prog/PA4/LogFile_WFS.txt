@@ -1,0 +1,195 @@
+Thr2's write of 20 on location 4 at 22:03:30
+Thr3's write of 39 on location 7 at 22:03:30
+Thr4's write of 58 on location 40 at 22:03:30
+Thr1's write of 1 on location 6 at 22:03:30
+Thr5's write of 77 on location 4 at 22:03:30
+Thr6's write of 97 on location 7 at 22:03:30
+Thr7's write of 16 on location 40 at 22:03:30
+Thr8's write of 35 on location 3 at 22:03:30
+Thr9's write of 54 on location 36 at 22:03:30
+Thr10's write of 73 on location 40 at 22:03:30
+Thr7's write of 45 on location 2 at 22:03:30
+Thr6's write of 25 on location 34 at 22:03:30
+Thr5's write of 99 on location 8 at 22:03:30
+Thr1's write of 54 on location 9 at 22:03:30
+Thr11's write of 93 on location 3 at 22:03:30
+Thr12's write of 12 on location 36 at 22:03:30
+Thr4's write of 73 on location 21 at 22:03:30
+Thr13's write of 31 on location 40 at 22:03:30
+Thr5's write of 68 on location 11 at 22:03:30
+Thr14's write of 50 on location 32 at 22:03:30
+Thr3's write of 53 on location 13 at 22:03:30
+Thr15's write of 69 on location 36 at 22:03:30
+Thr4's write of 42 on location 10 at 22:03:30
+Thr7's write of 83 on location 19 at 22:03:30
+Thr13's write of 90 on location 4 at 22:03:30
+Thr14's write of 10 on location 13 at 22:03:30
+Thr16's write of 89 on location 39 at 22:03:30
+Thr17's write of 8 on location 32 at 22:03:30
+Thr12's write of 64 on location 18 at 22:03:30
+Thr18's write of 27 on location 36 at 22:03:30
+Thr5's write of 85 on location 10 at 22:03:30
+Thr11's write of 44 on location 10 at 22:03:30
+Thr19's write of 46 on location 29 at 22:03:30
+Thr2's write of 27 on location 27 at 22:03:30
+Thr4's write of 72 on location 27 at 22:03:30
+Thr20's write of 66 on location 32 at 22:03:30
+Thr10's write of 18 on location 23 at 22:03:30
+Thr5's write of 99 on location 9 at 22:03:30
+Thr14's write of 56 on location 5 at 22:03:30
+Snapshot Thr1's snapshot: l1-0 l2-45 l3-93 l4-90 l5-56 l6-1 l7-97 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-0 l15-0 l16-0 l17-0 l18-64 l19-83 l20-0 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-46 l30-0 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-0 l38-0 l39-89 l40-31 which finished at 22:03:30
+Thr1's write of 68 on location 38 at 22:03:30
+Snapshot Thr2's snapshot: l1-0 l2-45 l3-93 l4-90 l5-56 l6-1 l7-97 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-0 l15-0 l16-0 l17-0 l18-64 l19-83 l20-0 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-46 l30-0 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-0 l38-68 l39-89 l40-31 which finished at 22:03:30
+Snapshot Thr3's snapshot: l1-0 l2-45 l3-93 l4-90 l5-56 l6-1 l7-97 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-0 l15-0 l16-0 l17-0 l18-64 l19-83 l20-0 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-46 l30-0 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-0 l38-68 l39-89 l40-31 which finished at 16:33:30
+Thr20's write of 54 on location 15 at 22:03:30
+Thr7's write of 44 on location 14 at 22:03:30
+Thr18's write of 8 on location 20 at 22:03:30
+Thr19's write of 28 on location 29 at 22:03:30
+Thr11's write of 51 on location 30 at 22:03:30
+Thr14's write of 33 on location 7 at 22:03:30
+Snapshot Thr2's snapshot: l1-0 l2-45 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 22:03:30
+Snapshot Thr1's snapshot: l1-0 l2-45 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 22:03:30
+Snapshot Thr4's snapshot: l1-0 l2-45 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 22:03:30
+Thr9's write of 91 on location 37 at 22:03:30
+Snapshot Thr5's snapshot: l1-0 l2-45 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-25 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 16:33:30
+Thr3's write of 52 on location 3 at 22:03:30
+Snapshot Thr3's snapshot: l1-0 l2-45 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-0 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 22:03:30
+Thr17's write of 82 on location 34 at 22:03:30
+Thr1's write of 84 on location 2 at 22:03:30
+Snapshot Thr5's snapshot: l1-0 l2-84 l3-52 l4-90 l5-56 l6-1 l7-33 l8-99 l9-99 l10-44 l11-68 l12-0 l13-10 l14-44 l15-54 l16-0 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-62 l26-0 l27-27 l28-0 l29-28 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-68 l39-89 l40-31 which finished at 22:03:30
+Thr16's write of 62 on location 25 at 22:03:30
+Thr8's write of 71 on location 29 at 22:03:30
+Thr10's write of 25 on location 29 at 22:03:30
+Thr18's write of 24 on location 16 at 22:03:30
+Thr3's write of 26 on location 7 at 22:03:30
+Thr16's write of 8 on location 8 at 22:03:30
+Thr13's write of 66 on location 38 at 22:03:30
+Thr3's write of 67 on location 5 at 22:03:30
+Snapshot Thr1's snapshot: l1-0 l2-84 l3-52 l4-90 l5-67 l6-1 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-44 l15-54 l16-24 l17-0 l18-64 l19-83 l20-8 l21-73 l22-0 l23-18 l24-0 l25-62 l26-0 l27-27 l28-0 l29-25 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-66 l39-89 l40-31 which finished at 22:03:30
+Thr6's write of 94 on location 13 at 22:03:30
+Thr8's write of 9 on location 21 at 22:03:30
+Thr13's write of 87 on location 27 at 22:03:30
+Snapshot Thr5's snapshot: l1-0 l2-84 l3-52 l4-90 l5-67 l6-1 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-44 l15-54 l16-24 l17-0 l18-64 l19-83 l20-8 l21-9 l22-0 l23-18 l24-0 l25-62 l26-0 l27-87 l28-0 l29-25 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-66 l39-89 l40-31 which finished at 22:03:30
+Thr17's write of 98 on location 15 at 22:03:30
+Snapshot Thr1's snapshot: l1-0 l2-84 l3-52 l4-90 l5-67 l6-1 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-44 l15-98 l16-24 l17-0 l18-64 l19-83 l20-8 l21-9 l22-0 l23-18 l24-0 l25-62 l26-0 l27-87 l28-0 l29-25 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-66 l39-89 l40-31 which finished at 22:03:30
+Thr20's write of 39 on location 24 at 22:03:30
+Thr16's write of 58 on location 14 at 22:03:30
+Thr1's write of 68 on location 1 at 22:03:30
+Thr15's write of 36 on location 39 at 22:03:30
+Snapshot Thr3's snapshot: l1-68 l2-26 l3-52 l4-90 l5-67 l6-1 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-58 l15-98 l16-24 l17-0 l18-64 l19-83 l20-8 l21-9 l22-0 l23-18 l24-39 l25-62 l26-0 l27-87 l28-0 l29-25 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-66 l39-36 l40-31 which finished at 22:03:30
+Thr2's write of 26 on location 2 at 22:03:30
+Snapshot Thr5's snapshot: l1-68 l2-26 l3-52 l4-90 l5-67 l6-1 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-58 l15-98 l16-24 l17-0 l18-64 l19-83 l20-8 l21-9 l22-0 l23-18 l24-39 l25-62 l26-0 l27-87 l28-0 l29-25 l30-51 l31-0 l32-66 l33-0 l34-82 l35-0 l36-27 l37-91 l38-66 l39-36 l40-31 which finished at 22:03:30
+Thr18's write of 17 on location 17 at 22:03:30
+Thr1's write of 42 on location 28 at 22:03:30
+Thr2's write of 13 on location 24 at 22:03:30
+Thr6's write of 97 on location 33 at 22:03:30
+Thr3's write of 61 on location 38 at 22:03:30
+Thr9's write of 99 on location 28 at 22:03:30
+Thr15's write of 82 on location 6 at 22:03:30
+Thr5's write of 38 on location 20 at 22:03:30
+Snapshot Thr5's snapshot: l1-68 l2-26 l3-52 l4-90 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-0 l13-94 l14-58 l15-98 l16-24 l17-17 l18-64 l19-83 l20-38 l21-9 l22-0 l23-18 l24-13 l25-62 l26-0 l27-87 l28-99 l29-25 l30-51 l31-0 l32-66 l33-97 l34-82 l35-0 l36-27 l37-91 l38-61 l39-36 l40-31 which finished at 22:03:30
+Thr2's write of 34 on location 3 at 22:03:30
+Thr6's write of 32 on location 12 at 22:03:30
+Thr17's write of 4 on location 34 at 22:03:30
+Snapshot Thr2's snapshot: l1-68 l2-26 l3-34 l4-90 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-32 l13-94 l14-58 l15-98 l16-24 l17-17 l18-64 l19-83 l20-38 l21-9 l22-0 l23-18 l24-13 l25-62 l26-0 l27-87 l28-99 l29-25 l30-51 l31-0 l32-66 l33-97 l34-4 l35-0 l36-27 l37-91 l38-61 l39-36 l40-31 which finished at 22:03:30
+Snapshot Thr3's snapshot: l1-68 l2-26 l3-34 l4-90 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-32 l13-94 l14-58 l15-98 l16-24 l17-17 l18-64 l19-83 l20-38 l21-9 l22-0 l23-18 l24-13 l25-62 l26-0 l27-87 l28-99 l29-25 l30-51 l31-0 l32-66 l33-97 l34-4 l35-0 l36-27 l37-91 l38-61 l39-36 l40-31 which finished at 22:03:30
+Thr6's write of 19 on location 18 at 22:03:30
+Thr8's write of 56 on location 37 at 22:03:30
+Thr15's write of 46 on location 31 at 22:03:30
+Thr2's write of 81 on location 39 at 22:03:30
+Thr19's write of 14 on location 23 at 22:03:30
+Thr3's write of 82 on location 20 at 22:03:30
+Thr10's write of 15 on location 40 at 22:03:30
+Snapshot Thr1's snapshot: l1-68 l2-26 l3-34 l4-90 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-32 l13-94 l14-58 l15-98 l16-24 l17-17 l18-19 l19-83 l20-82 l21-9 l22-0 l23-14 l24-13 l25-62 l26-0 l27-87 l28-60 l29-25 l30-51 l31-46 l32-66 l33-97 l34-4 l35-0 l36-27 l37-56 l38-61 l39-81 l40-15 which finished at 22:03:30
+Thr14's write of 60 on location 28 at 22:03:30
+Thr20's write of 76 on location 21 at 22:03:30
+Thr12's write of 41 on location 37 at 22:03:30
+Thr11's write of 28 on location 24 at 22:03:30
+Thr12's write of 74 on location 4 at 22:03:30
+Snapshot Thr2's snapshot: l1-68 l2-26 l3-34 l4-74 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-32 l13-94 l14-58 l15-98 l16-24 l17-17 l18-19 l19-83 l20-82 l21-76 l22-0 l23-14 l24-28 l25-62 l26-0 l27-87 l28-60 l29-25 l30-51 l31-46 l32-66 l33-97 l34-4 l35-0 l36-27 l37-41 l38-61 l39-81 l40-15 which finished at 22:03:30
+Thr9's write of 2 on location 17 at 22:03:30
+Thr6's write of 86 on location 28 at 22:03:30
+Snapshot Thr3's snapshot: l1-68 l2-26 l3-34 l4-74 l5-67 l6-82 l7-26 l8-8 l9-99 l10-44 l11-68 l12-32 l13-94 l14-58 l15-98 l16-24 l17-2 l18-19 l19-83 l20-82 l21-76 l22-0 l23-14 l24-28 l25-62 l26-0 l27-87 l28-86 l29-25 l30-51 l31-46 l32-66 l33-97 l34-4 l35-0 l36-27 l37-41 l38-61 l39-81 l40-15 which finished at 22:03:30
+Thr6's write of 72 on location 30 at 22:03:30
+Thr19's write of 63 on location 38 at 22:03:30
+Thr2's write of 91 on location 30 at 22:03:30
+Thr14's write of 27 on location 27 at 22:03:30
+Thr7's write of 31 on location 13 at 22:03:30
+Thr4's write of 66 on location 7 at 22:03:30
+Thr18's write of 58 on location 37 at 22:03:30
+Thr2's write of 31 on location 26 at 22:03:30
+Thr1's write of 85 on location 22 at 22:03:30
+Thr7's write of 15 on location 2 at 22:03:30
+Thr17's write of 25 on location 34 at 22:03:30
+Thr13's write of 61 on location 26 at 22:03:30
+Thr16's write of 26 on location 33 at 22:03:30
+Thr5's write of 95 on location 38 at 22:03:30
+Thr16's write of 88 on location 24 at 22:03:30
+Thr17's write of 85 on location 8 at 22:03:30
+Thr6's write of 41 on location 33 at 22:03:30
+Thr17's write of 39 on location 25 at 22:03:30
+Thr3's write of 62 on location 11 at 22:03:30
+Thr2's write of 59 on location 8 at 22:03:30
+Thr7's write of 7 on location 15 at 22:03:30
+Thr4's write of 58 on location 21 at 22:03:30
+Thr16's write of 17 on location 38 at 22:03:30
+Thr20's write of 90 on location 1 at 22:03:30
+Thr15's write of 93 on location 30 at 22:03:30
+Snapshot Thr4's snapshot: l1-90 l2-15 l3-34 l4-74 l5-67 l6-82 l7-65 l8-59 l9-99 l10-44 l11-62 l12-32 l13-31 l14-58 l15-7 l16-24 l17-2 l18-19 l19-83 l20-82 l21-58 l22-85 l23-14 l24-88 l25-39 l26-61 l27-27 l28-86 l29-25 l30-93 l31-46 l32-66 l33-41 l34-25 l35-0 l36-27 l37-58 l38-17 l39-81 l40-15 which finished at 22:03:30
+Snapshot Thr2's snapshot: l1-68 l2-15 l3-34 l4-74 l5-67 l6-82 l7-65 l8-59 l9-99 l10-44 l11-62 l12-32 l13-31 l14-58 l15-7 l16-24 l17-2 l18-19 l19-83 l20-82 l21-58 l22-85 l23-14 l24-88 l25-39 l26-61 l27-27 l28-86 l29-25 l30-93 l31-46 l32-66 l33-41 l34-25 l35-0 l36-27 l37-58 l38-95 l39-81 l40-15 which finished at 22:03:30
+Thr18's write of 65 on location 7 at 22:03:30
+Thr13's write of 30 on location 4 at 22:03:30
+Thr14's write of 35 on location 18 at 22:03:30
+Thr1's write of 42 on location 29 at 22:03:30
+Thr7's write of 19 on location 39 at 22:03:30
+Thr5's write of 41 on location 5 at 22:03:30
+Thr4's write of 4 on location 8 at 22:03:30
+Thr19's write of 57 on location 38 at 22:03:30
+Thr4's write of 10 on location 20 at 22:03:30
+Thr2's write of 36 on location 10 at 22:03:30
+Thr16's write of 47 on location 16 at 22:03:30
+Thr12's write of 28 on location 24 at 22:03:30
+Thr5's write of 82 on location 26 at 22:03:30
+Thr10's write of 96 on location 20 at 22:03:30
+Thr17's write of 95 on location 25 at 22:03:30
+Thr6's write of 51 on location 25 at 22:03:30
+Thr2's write of 60 on location 11 at 22:03:30
+Snapshot Thr4's snapshot: l1-90 l2-15 l3-34 l4-30 l5-41 l6-82 l7-65 l8-4 l9-99 l10-36 l11-60 l12-32 l13-31 l14-58 l15-7 l16-47 l17-2 l18-35 l19-83 l20-96 l21-58 l22-85 l23-14 l24-28 l25-51 l26-82 l27-27 l28-86 l29-42 l30-93 l31-46 l32-66 l33-41 l34-25 l35-0 l36-27 l37-58 l38-57 l39-19 l40-15 which finished at 22:03:30
+Thr14's write of 85 on location 6 at 22:03:30
+Thr9's write of 63 on location 17 at 22:03:30
+Thr5's write of 15 on location 16 at 22:03:30
+Thr12's write of 50 on location 5 at 22:03:30
+Thr16's write of 16 on location 10 at 22:03:30
+Thr17's write of 23 on location 14 at 22:03:30
+Thr5's write of 88 on location 3 at 22:03:30
+Thr18's write of 30 on location 15 at 22:03:30
+Thr6's write of 47 on location 14 at 22:03:30
+Thr7's write of 47 on location 36 at 22:03:30
+Thr14's write of 99 on location 36 at 22:03:30
+Thr12's write of 23 on location 40 at 22:03:30
+Thr19's write of 62 on location 30 at 22:03:30
+Thr1's write of 27 on location 2 at 22:03:30
+Thr18's write of 26 on location 10 at 22:03:30
+Thr2's write of 72 on location 7 at 22:03:30
+Thr5's write of 56 on location 19 at 22:03:30
+Snapshot Thr4's snapshot: l1-90 l2-27 l3-88 l4-30 l5-50 l6-85 l7-72 l8-4 l9-99 l10-26 l11-60 l12-32 l13-31 l14-47 l15-30 l16-15 l17-63 l18-35 l19-56 l20-96 l21-58 l22-85 l23-14 l24-28 l25-51 l26-82 l27-27 l28-86 l29-42 l30-62 l31-46 l32-66 l33-41 l34-25 l35-0 l36-99 l37-58 l38-57 l39-19 l40-23 which finished at 22:03:30
+Thr17's write of 7 on location 23 at 22:03:30
+Thr1's write of 64 on location 31 at 22:03:30
+Thr9's write of 93 on location 24 at 22:03:30
+Thr2's write of 77 on location 4 at 22:03:30
+Snapshot Thr4's snapshot: l1-90 l2-27 l3-88 l4-77 l5-50 l6-85 l7-72 l8-4 l9-99 l10-26 l11-60 l12-32 l13-31 l14-47 l15-30 l16-15 l17-63 l18-35 l19-56 l20-96 l21-58 l22-85 l23-7 l24-93 l25-51 l26-82 l27-27 l28-86 l29-42 l30-62 l31-64 l32-66 l33-41 l34-25 l35-0 l36-99 l37-58 l38-57 l39-19 l40-23 which finished at 22:03:30
+Thr11's write of 29 on location 22 at 22:03:30
+Thr15's write of 7 on location 26 at 22:03:30
+Thr7's write of 60 on location 14 at 22:03:30
+Thr20's write of 42 on location 29 at 22:03:30
+Thr9's write of 20 on location 33 at 22:03:30
+Thr3's write of 18 on location 15 at 22:03:30
+Thr2's write of 26 on location 8 at 22:03:30
+Thr4's write of 24 on location 18 at 22:03:30
+Thr6's write of 27 on location 25 at 22:03:30
+Thr19's write of 51 on location 3 at 22:03:30
+Thr16's write of 98 on location 34 at 22:03:30
+Thr5's write of 52 on location 20 at 22:03:30
+Thr11's write of 53 on location 21 at 22:03:30
+Thr1's write of 25 on location 40 at 22:03:30
+Thr2's write of 7 on location 40 at 22:03:30
