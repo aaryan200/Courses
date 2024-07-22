@@ -1,0 +1,1 @@
+Zero-knowledge interactive proof: whatever you could compute before you interacted with me and afterward are not different. Shafi Goldwasser

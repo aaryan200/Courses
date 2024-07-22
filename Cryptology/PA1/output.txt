@@ -1,0 +1,14 @@
+m1 =  "Encrypt, then MAC, is the correct order for secure authenticated encryption."
+m2 =  "If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee. Abraham Lincoln"
+m3 =  "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just. Abraham Lincoln"
+m4 =  "Any one who consider arithmetical methods of producing random digits, is of course, in a state of sin. John von Neumann"
+m5 =  "We're seeing right now that a mass extinction can be caused by human beings. Elizabeth Kolbert"
+m6 =  "At a job interview, tell them you're willing to give 110 perecent. Unless the job is a statistician."
+m7 =  "Never put off till tomorrow what you can do the day after tomorrow just as well."
+m8 =  "When I was a kid, my parents moved a lot, but I always found them. Rod Dangerfield"
+m9 =  "The cure for boredom is curiosity. There's no cure for curiosity. Dorothy Parker"
+m10 =  "I'm killing time while I wait for life to shower me with meaning and happiness. Calvin and Hobbes"
+m11 =  "I have memorized this utterly useless piece of information long enough to pass a test question. Calvin and Hobbes"
+m12 =  "Zero-knowledge interactive proof: whatever you could compute before you interacted with me and afterward are not different. Shafi Goldwasser"
+
+Key = [ 201, 185, 116, 95, 158, 226, 145, 176, 149, 23, 140, 204, 45, 231, 176, 101, 78, 215, 188, 24, 228, 178, 49, 91, 248, 85, 134, 201, 35, 112, 251, 76, 229, 99, 123, 46, 13, 86, 138, 24, 104, 182, 20, 140, 91, 108, 195, 20, 160, 77, 185, 122, 20, 0, 165, 8, 237, 6, 34, 249, 24, 138, 187, 84, 56, 47, 199, 70, 224, 68, 166, 33, 110, 77, 21, 163, 50, 65, 137, 8, 18, 96, 134, 73, 104, 0, 210, 70, 2, 225, 201, 51, 158, 3, 230, 202, 193, 244, 165, 107, 84, 65, 171, 12, 172, 55, 117, 98, 192, 56, 144, 179, 58, 133, 80, 79, 36, 20, 13, 15, 21, 120, 177, 58, 50, 178, 202, 10, 209, 72, 4, 68, 139, 203, 217, 247, 19, 242, 33, 35, ]

@@ -1,0 +1,3 @@
+Plain to cipher key: b294df5a0b9f7dd7e26de7bd9e0af1ad
+Cipher to cipher key: 1694c35a7003c61f8fd5e70594684e53
+Secret message: paddlingcanoeist
